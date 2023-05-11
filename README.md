@@ -1,7 +1,10 @@
 Stopwatch Project
+
 This is a simple stopwatch application built using HTML, CSS, and JavaScript. It allows users to start, stop, and reset the stopwatch.
 
 Features
+
+
 Start/Stop: Users can start and stop the stopwatch using the "Start" and "Stop" buttons, respectively.
 
 Reset: Users can reset the stopwatch to its original state using the "Reset" button.
